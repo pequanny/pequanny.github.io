@@ -195,3 +195,6 @@ iframe {
   color:rgba(12, 12, 54, 0.9);
   padding: 20px;
 }
+.text-lead{
+  font-size: 28px;
+}
